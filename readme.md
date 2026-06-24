@@ -69,7 +69,7 @@ See `confusion_matrix.png`
 
 A screen recording of the model running predictions and showing evaluation results is included in the repository.
 
-- File: `data/demo.mp4`
+- File: `data/demo2.mov`
 
 The demo shows:
 - 3–5 sample predictions from the model
