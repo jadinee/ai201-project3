@@ -71,6 +71,11 @@ A screen recording of the model running predictions and showing evaluation resul
 
 - File: `data/demo2.mov`
 
+## Demo
+Demo video included in repo:
+
+![Demo](./data/demo2.mp4)
+
 The demo shows:
 - 3–5 sample predictions from the model
 - Correct and incorrect prediction examples
